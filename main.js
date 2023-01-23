@@ -38,7 +38,7 @@ function createAboutWindow() {
   aboutWindow = new BrowserWindow({
     width: 300,
     height: 300,
-    title: 'About Electron',
+    title: 'About Image Resizer',
     icon: `${__dirname}/assets/icons/Icon_256x256.png`,
   });
 
